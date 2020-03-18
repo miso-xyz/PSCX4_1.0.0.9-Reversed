@@ -1,4 +1,4 @@
-# PSCX4_1.0.0.9 Reverse'd (Debloated)
+# PSCX4_1.0.0.9 Fully Reverse'd (from debloated patch)
 Fake PS4 Emulator from a dodgy website
 
 Tools used (to reverse):
