@@ -1,4 +1,4 @@
-# PSCX4_1.0.0.9 Fully Reverse-Engineered
+# PSCX4_1.0.0.9 Fully Reverse'd
 Fake PS4 Emulator from a dodgy website, fully reverse'd
 
 Tools used (to reverse):
