@@ -1,5 +1,5 @@
-# PSCX4_1.0.0.9 Fully Reverse'd
-Fake PS4 Emulator from a dodgy website, fully reverse'd
+# PSCX4_1.0.0.9 Reverse'd (Debloated)
+Fake PS4 Emulator from a dodgy website
 
 Tools used (to reverse):
 - Visual Studio 2010
